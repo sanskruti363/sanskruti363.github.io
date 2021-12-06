@@ -65,6 +65,7 @@ h1,
 h2,
 p {
   margin: 0;
+  text-align : justified;
 }
 ul {
   margin: 0;
