@@ -135,8 +135,8 @@ img {
   font-weight: var(--font-semi);
 }
 @media screen and (max-width: 768px) {
-  .section-title{
-    display: none;
+  .section-title1{
+    display: none !important;
   }
   .nav__menu {
     position: fixed;
